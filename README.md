@@ -178,7 +178,3 @@ python app/strategy/backtest.py
 - **Do not trade real money without extensive additional testing**
 
 ---
-
-## Resume Line
-
-> *"Engineered an autonomous quantitative trading system on AWS — ensemble strategy combining RSI, MACD, Bollinger Bands, and NLP sentiment signals with HMM regime detection. Deployed on EC2 via Terraform IaC with Alpaca WebSocket live data ingestion, circuit breaker risk management, and full SQLite audit logging. Achieved 0.46 Calmar Ratio and -5.81% max drawdown over 5-year backtest."*
